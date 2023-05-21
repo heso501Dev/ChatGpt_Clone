@@ -9,5 +9,6 @@ Interactive Conversations: Users can engage in dynamic and interactive conversat
 Seamless OpenAI API Integration: The ChatGPT clone is seamlessly integrated with the OpenAI API, allowing it to leverage the power of the language model for generating accurate and coherent responses.
 
 ## Installation
-1. npm init
-2. add ur openai_api_key
+1. serverdir --> npm install
+2. clientdir --> npm install
+3. create .env file and add ur openai_api_key
